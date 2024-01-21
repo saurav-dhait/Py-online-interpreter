@@ -48,7 +48,7 @@ You can view the website at https://py-online.onrender.com.
     ```bash
     python main.py
     ```
-    After the above command the flask server will start.
+    After the executing the above command , Flask server will start.
     The app will be accessible at `http://localhost:5000` by default.
 
 ## Usage
