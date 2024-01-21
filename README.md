@@ -1,10 +1,10 @@
-# Flask live chat (LAN)  
+# Py-online
 
 
 Hello Everyone,
 
 This is simple Flask-based python online interpreter web application designed for running python scripts online.
-You can view the website at [https://py-online.onrender.com].
+You can view the website at https://py-online.onrender.com.
 
 ## Features
 
@@ -17,7 +17,6 @@ You can view the website at [https://py-online.onrender.com].
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
 - [License](#license)
 
 ## Installation
