@@ -1,9 +1,9 @@
-# Py-online
+# Py-online 
 
 
 Hello Everyone,
 
-This is simple Flask-based python online interpreter web application designed for running python scripts online.
+This is a simple Flask-based python online interpreter web application designed for running python scripts online.
 
 You can view the website at https://py-online.onrender.com.
 
